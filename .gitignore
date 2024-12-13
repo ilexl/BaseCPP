@@ -1,0 +1,14 @@
+# Binaries
+**/bin/
+!vendor/bin/premake/
+bin-int/
+
+# Example folders in external libraries
+**/examples/
+
+# Visual Studio files and folder
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
