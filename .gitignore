@@ -3,8 +3,8 @@
 !vendor/bin/premake/
 bin-int/
 
-# Example folders in external libraries
-**/examples/
+# log files
+*.log
 
 # Visual Studio files and folder
 .vs/
